@@ -1,5 +1,7 @@
-import matplotlib.pyplot as plt
+from matplotlib import cbook
 from matplotlib import cm
+from matplotlib.colors import LightSource
+import matplotlib.pyplot as plt
 import numpy as np
 import tkinter as tk
 
